@@ -1,5 +1,6 @@
 ---
 # geekettes Munich -- Data Science Workshop
+
 ---
 
 After a short introduction into machine learning, we will dive into hands-on application of machine learning to open data answering everyday questions. In our joint hands-on session, you will go through the characteristic steps of a typical machine learning project. We will experience how cloud computing (Microsoft Azure) supports data scientists in their dayly work. The workshop will offer both a non-code based as well as a code based (python) machine learning tutorial.
@@ -12,6 +13,7 @@ After a short introduction into machine learning, we will dive into hands-on app
 
 ---
 # New York City Taxi Ride Prediction
+
 ---
 
 In this workshop, wee will explore the New York City taxi trip records. The New York City Taxi and Limousine Commission (TLC) provides the data is open datasets. It was collected by technology providers authorized under the Taxicab & Livery Passenger Enhancement Programs (TPEP/LPEP). The TLC makes no warranties about the accuracy of this data.
