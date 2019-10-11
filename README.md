@@ -23,7 +23,6 @@ The yellow taxi trip records include fields capturing pick-up and drop-off dates
 # Copy repository to your Azure Machine Learning Service
 
 * Copy this line into your terminal to download the git directory
-
-wget https://github.com/lnemec/1910-geekettes-DataScienceWorkshop/archive/master.zip
-unzip master.zip 
+* wget https://github.com/lnemec/1910-geekettes-DataScienceWorkshop/archive/master.zip
+* unzip master.zip 
 
