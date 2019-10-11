@@ -20,3 +20,5 @@ We will use the NYC taxi trip data from 2015 to predict the duration of a Taxi t
 
 The yellow taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
+copy this line into your terminal to download the git directory
+wget https://github.com/lnemec/1910-geekettes-DataScienceWorkshop/archive/master.zip
