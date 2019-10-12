@@ -1,4 +1,4 @@
-# geekettes Munich -- Data Science Workshop
+# geekettes Munich - Data Science Workshop
 ---
 
 After a short introduction into machine learning, we will dive into hands-on application of machine learning to open data answering everyday questions. In our joint hands-on session, you will go through the characteristic steps of a typical machine learning project. We will experience how cloud computing (Microsoft Azure) supports data scientists in their dayly work. The workshop will offer both a non-code based as well as a code based (python) machine learning tutorial.
@@ -26,3 +26,7 @@ The yellow taxi trip records include fields capturing pick-up and drop-off dates
 * wget https://github.com/lnemec/1910-geekettes-DataScienceWorkshop/archive/master.zip
 * unzip master.zip 
 
+# Set-up the Cloud
+Machine Lerning Services
+
+* https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-manage-workspace
